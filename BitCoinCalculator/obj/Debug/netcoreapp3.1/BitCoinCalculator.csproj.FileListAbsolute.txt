@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\bin\Debug\netcoreapp3.1\BitCoinCalculator.exe
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\obj\Debug\netcoreapp3.1\BitCoinCalculator.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\obj\Debug\netcoreapp3.1\BitCoinCalculator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\obj\Debug\netcoreapp3.1\BitCoinCalculator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\bin\Debug\netcoreapp3.1\BitCoinCalculator.deps.json
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\bin\Debug\netcoreapp3.1\BitCoinCalculator.runtimeconfig.json
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\bin\Debug\netcoreapp3.1\BitCoinCalculator.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\bin\Debug\netcoreapp3.1\BitCoinCalculator.dll
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\bin\Debug\netcoreapp3.1\BitCoinCalculator.pdb
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\obj\Debug\netcoreapp3.1\BitCoinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\obj\Debug\netcoreapp3.1\BitCoinCalculator.csproj.CopyComplete
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\obj\Debug\netcoreapp3.1\BitCoinCalculator.dll
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\obj\Debug\netcoreapp3.1\BitCoinCalculator.pdb
+C:\Users\opilane\source\repos\titpe21\BitCoinCalculator\BitCoinCalculator\obj\Debug\netcoreapp3.1\BitCoinCalculator.genruntimeconfig.cache
